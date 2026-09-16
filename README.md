@@ -29,3 +29,6 @@
 - backend → frontend
 - cache → backend
 - cache → frontend
+
+![1.png](https://github.com/victorialugi/k8s_netpol/blob/main/1.png)
+![2.png](https://github.com/victorialugi/k8s_netpol/blob/main/2.png)
